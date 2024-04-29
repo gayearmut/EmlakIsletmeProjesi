@@ -24,3 +24,10 @@ Projenin detaylı raporu: [Rapor](https://github.com/gayearmut/EmlakIsletmeProje
 - PostgreSQL
 - Windows Form
 - C# Programlama Dili
+
+### Database Connection
+
+.Net - PostgreSQL connection string:
+```
+"server = localHost; port= 5432; Database= dbname; user Id = username; password= mypassword"
+```
