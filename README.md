@@ -18,6 +18,7 @@ Proje raporu: [Rapor](https://github.com/gayearmut/EmlakIsletmeProjesi/blob/main
 
 ## Teknolojiler
 
+- .Net Desktop
 - PostgreSQL
 - Windows Form
 - C# Programlama Dili
