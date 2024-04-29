@@ -26,9 +26,9 @@ Projenin detaylı raporu: [Rapor](https://github.com/gayearmut/EmlakIsletmeProje
 - Windows Form
 - C# Programlama Dili
 
-### Database Connection
+### Veritabanı Bağlantısı
 
-.Net - PostgreSQL connection string:
+.Net - PostgreSQL bağlantı kodu:
 ```
 "server = localHost; port= 5432; Database= dbname; user Id = username; password= mypassword"
 ```
