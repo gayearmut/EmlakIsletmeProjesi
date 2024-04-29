@@ -1,7 +1,7 @@
 ## Emlak İşletme Projesi
  Emlak işletme projesi, C# programlama dilinde Windows Form uygulaması geliştirmek için Visual Studio kullanan bir yazılım geliştirme projesidir. Proje, PostgreSQL veritabanıyla etkileşimli olarak çalışır ve kullanıcı arayüzü için Windows Form'ları kullanır. 
 
- [Codes](https://github.com/gayearmut/EmlakIsletmeProjesi/tree/main/EmlakIsletmeProjesi/EmlakIsletmeProjesi)
+ [Kodlar](https://github.com/gayearmut/EmlakIsletmeProjesi/tree/main/EmlakIsletmeProjesi/EmlakIsletmeProjesi)
 
 
  ## Ekran Görüntüleri
@@ -14,9 +14,9 @@ Uygulamanın işleyişini görmek için :
 ## Proje Raporu
 Projenin detaylı raporu: [Rapor](https://github.com/gayearmut/EmlakIsletmeProjesi/blob/main/Gaye%20Armut%20Proje%20Raporu.pdf)
 ## Dökümantasyon 
-- [Winform Official Guide]( https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0)
-- [Download Visual Studio](https://visualstudio.microsoft.com/tr/downloads/?utm_medium=microsoft&utm_source=learn.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2022+desktopguide+winforms)
-- [PostgreSql Download]( https://www.postgresql.org/download/)
+- [Winform Resmi Rehber]( https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0)
+- [ Visual Studio İndir](https://visualstudio.microsoft.com/tr/downloads/?utm_medium=microsoft&utm_source=learn.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2022+desktopguide+winforms)
+- [PostgreSql İndir]( https://www.postgresql.org/download/)
 
 
 ## Teknolojiler
