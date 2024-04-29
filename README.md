@@ -2,7 +2,7 @@
  Emlak işletme projesi, C# programlama dilinde Windows Form uygulaması geliştirmek için Visual Studio kullanan bir yazılım geliştirme projesidir. Proje, PostgreSQL veritabanıyla etkileşimli olarak çalışır ve kullanıcı arayüzü için Windows Form'ları kullanır. 
 
  [Codes](https://github.com/gayearmut/EmlakIsletmeProjesi/tree/main/EmlakIsletmeProjesi/EmlakIsletmeProjesi)
- ![İşletme Giriş1](https://github.com/gayearmut/EmlakIsletmeProjesi/assets/57320188/4e11b444-13a0-456c-a30e-fe09b15aaf81)
+
 
  ## Ekran Görüntüleri
  Uygulama ekran görüntüleri için: [Ekran Görüntüleri](https://github.com/gayearmut/EmlakIsletmeProjesi/tree/main/Proje%20Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri)
